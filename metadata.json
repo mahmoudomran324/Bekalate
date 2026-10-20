@@ -1,0 +1,6 @@
+{
+  "name": "Bekalate - متجر بلدي",
+  "description": "منصة متجر بلدي وبقالتي للربط المباشر بين المتاجر الحقيقية والعملاء مع طلب البضائع الحية ونظام إشعارات وتنبيهات صوتية فورية للتجار وإدارة الطلبات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
